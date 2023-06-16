@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hi there 👋, I am Oluwafunmike Adeyeye </h1>
 
-<!--
-**Oluwafunmike-adeyeye/Oluwafunmike-adeyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<ul>
+  <li>🏢 A software Engineer(FrontEnd)</li>
+  <li>👯 Looking forward to collaborate on Github</li>
+  <li>📫 Reach out to me: <a href="mailto:adeyeyeoluwafunmike1@gmail.com">adeyeyeoluwafunmike1@gmail.com<a></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Technologies</h3>
+
+<button>HTML5</button>
+<button>CSS3</button>
+<button>Bootstrap</button>
+<button>Material UI</button>
+<button>JavaScript</button>
+<button>React</button>
