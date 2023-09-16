@@ -14,6 +14,7 @@
 <button>HTML5</button>
 <button>CSS3</button>
 <button>Bootstrap</button>
+<button>Tailwind CSS</button>
 <button>Material UI</button>
 <button>JavaScript</button>
 <button>React</button>
