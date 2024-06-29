@@ -17,4 +17,9 @@
 <button>Tailwind CSS</button>
 <button>Material UI</button>
 <button>JavaScript</button>
+<button>Typescript</button>
 <button>React</button>
+<button>jQuery</button>
+<button>Next.Js</button>
+
+
