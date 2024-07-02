@@ -6,6 +6,7 @@
   <li>🏢 A software Engineer(Frontend)</li>
   <li>👯 Looking forward to collaborate on Github</li>
   <li>📫 Reach out to me: <a href="mailto:adeyeyeoluwafunmike1@gmail.com">adeyeyeoluwafunmike1@gmail.com<a></li>
+  <li>My Portfolio: <a href="https://oluwafunmike-adeyeye-portfolio.netlify.app/">My Portfolio<a></li>
 </ul>
 
 
