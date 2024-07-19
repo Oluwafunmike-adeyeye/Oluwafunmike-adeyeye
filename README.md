@@ -11,16 +11,18 @@
 
 
 <h3>Technologies</h3>
-
-<button>HTML5</button>
-<button>CSS3</button>
-<button>Bootstrap</button>
-<button>Tailwind CSS</button>
-<button>Material UI</button>
-<button>JavaScript</button>
-<button>Typescript</button>
-<button>React</button>
-<button>jQuery</button>
-<button>Next.Js</button>
+<div>
+  <button>HTML5</button>
+  <button>CSS3</button>
+  <button>Bootstrap</button>
+  <button>Tailwind CSS</button>
+  <button>Material UI</button>
+  <button>JavaScript</button>
+  <button>Typescript</button>
+  <button>React</button>
+  <button>jQuery</button>
+  <button>Next.Js</button>
+  <button>Redux</button>
+</div>
 
 
